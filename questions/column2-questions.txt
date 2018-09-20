@@ -1,0 +1,5 @@
+Who designed C?
+The first high-level language implemented under the UNIX operating system was designed and implemented in 1970 in Bell Laboratories 
+Originally called NB (New B) 
+Being ________ means that all data are considered machine words, which may be simple but leads to many complications.
+was developed for scientific applications in 1968

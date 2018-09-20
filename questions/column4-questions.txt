@@ -1,0 +1,6 @@
+Given x is -2. What is the screen output of: if (x) printf("true"); else printf("false"); 
+Braces { } are mandatory for BOTH if and switch statements
+(TRUE OR FALSE) All else tokens should have a corresponding if statement; however an if statement can exist without an else.
+Given ch is 'w'. What is the screen output of: if (ch>='a' || ch<='c') printf("accepted"); else printf("rejected");
+Given x is -2. What is the screen output of: if (x>0) if (x%2==0) printf("even"); else printf("odd");
+
